@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/flight</item>
+        <item name="colorPrimaryDark">@color/flight</item>
+        <item name="colorAccent">@color/times</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <color name="background">#f8edff</color>
+    <color name="title">#bfb4ed</color>
+    <color name="flight">#cfc5fc</color>
+    <color name="times">#e7e3fa</color>
+
+</resources>
